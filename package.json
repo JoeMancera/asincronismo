@@ -1,0 +1,18 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "curso de aprendizaje de asicnronismo en JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "JS",
+    "callbacks",
+    "promesas",
+    "asink",
+    "await"
+  ],
+  "author": "Joe Mancera",
+  "license": "MIT"
+}
