@@ -18,3 +18,12 @@ fetchData(API)
     console.log(data.dimension)
 })
 .catch(err => console.error(err))
+
+/*
+        ventajas
+Enlazar promesas con .then
+es buena practica usarlo, se encontrará
+        desventajas
+errores al no retornar
+transpilador para que funcione en navegadores viejos
+*/

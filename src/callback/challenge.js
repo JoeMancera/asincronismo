@@ -35,3 +35,15 @@ fetchData(API, function (error1, data1) {
     })
 })
 
+/*
+       Ventajas
+
+Soporte en varios navegadores
+Universal
+Funcion que ejecuta otra función
+
+        Desventaja
+Composisción tosca o un poco compleja, debería anidar caalback hell
+los ifs se vuelven un poco complejos dependiendo la complejidad
+
+*/
